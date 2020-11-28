@@ -1,6 +1,6 @@
 const router = require("express").Router();
 const mongojs = require("mongojs");
-const Workout = require("../models/index.js");
+const Workout=require("../models/index.js")
 
 
 // pull all workouts
