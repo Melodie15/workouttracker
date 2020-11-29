@@ -1,8 +1,8 @@
 # Workout Tracker
 
 <img src="projectscreenshot2" alt="project image">
-<img src="projectscreenshot3" alt="project image2">
-<img src="projectscreenshot4" alt="project image3">
+<!-- <img src="projectscreenshot3" alt="project image2">
+<img src="projectscreenshot4" alt="project image3"> -->
 
 > AS A user,
   I WANT to be able to view, create and track daily workouts. 
