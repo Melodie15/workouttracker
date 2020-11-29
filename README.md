@@ -1,12 +1,13 @@
 # Workout Tracker
 
 <img src="projectscreenshot2" alt="project image">
-<img src="projectscreenshot3" alt="project image">
-<img src="projectscreenshot4" alt="project image">
+<img src="projectscreenshot3" alt="project image2">
+<img src="projectscreenshot4" alt="project image3">
 
-> AS A JavaScript professional
-  I WANT to take a timed quiz on JavaScript fundamentals that stores high scores
-  SO THAT I can gauge my progress compared to my peers
+> AS A user,
+  I WANT to be able to view, create and track daily workouts. 
+  I want to be able to log multiple exercises in a a workout on a given day. 
+  I should also be able to track the name, type, weight, sets, reps and duration of exercise. If the exercise is a cardio exercise, I should be able to track my distance traveled.
 
 ---
 
@@ -22,23 +23,29 @@
 
 ## Description
 
-Simple Code Quiz build with JavaScript, HTML and CSS. Questions are rendered on the screen when you start the app, a timer runs simultaneoustly and a final score is given at the end. 
+A consumer will reach their fitness goals more quickly when they track their workout progress. 
 
 ### Technologies
 
-- JavaScript
+- Javascript
+- Node.js
+- Express
+- MongoDB
+- Mongoose
+- Heroku
+- Morgan
 - HTML
 - CSS
 
 ## How to Use
 
-Click the Start button, the quiz and timer will run as the questions are rendered to the screen, select your answers and your score is printed at the the very end or when the time runs out.
+Npm install all dependencies, npm start to launch the app in localhost:3200. Select 'New Workout', add your exercises, select 'Complete', then go to the 'Dashboard' to view your stats.
 
 ### License
 
 Distributed under the MIT License. See LICENSE for more information.
 
-[Back To The Top](#code-quiz)
+[Back To The Top](#workout-tracker)
 
 ---
 
@@ -46,4 +53,5 @@ Distributed under the MIT License. See LICENSE for more information.
 
 Fatim Robbins
 fmsis@hotmail.com
+<br/>
 Heroku link - https://frobbinsfitnesstracker.herokuapp.com/
